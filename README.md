@@ -1,1 +1,1 @@
-So this is going to be my first html project , i am using odin project as my reference/learning material, this project will have information about recipes 
+"So this is going to be my first html project , i am using odin project as my reference/learning material, this project will have information about recipes "
